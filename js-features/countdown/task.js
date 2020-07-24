@@ -48,5 +48,5 @@ function refresh()
         down.click();
 	}
 }
-
+onload = refresh();
 
